@@ -1,2 +1,2 @@
-# racunalniski-praktikum
+# Racunalniski praktikum
 Naloge za RP
